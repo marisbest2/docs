@@ -93,7 +93,7 @@ It is not intended to be used in native applications on desktop or mobile applic
 
 <details>
 <summary>
-  <h3 style={{display:"inline-block"}}>Is NextAuth.js supporting TypeScript?</h3>
+  <h3 style={{display:"inline-block"}}>Does NextAuth.js support TypeScript?</h3>
 </summary>
 <p>
 
